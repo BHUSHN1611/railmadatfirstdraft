@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/railmadatfirstdraft/', // Replace with your actual repo name
+  base: 'railmadatfirstdraft', // Replace with your actual repo name
 })
